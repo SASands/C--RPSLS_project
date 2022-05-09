@@ -9,7 +9,6 @@ namespace RPSLS
     {
             Human sean = new Human();
 
-            sean.
 
 
     }

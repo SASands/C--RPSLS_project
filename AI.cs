@@ -1,6 +1,7 @@
 ﻿using System;
 
-public class AI
+public class AI : Game
+		//Child class to Game
 {
 	public AI()
 	{

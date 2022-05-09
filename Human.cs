@@ -1,6 +1,7 @@
 ﻿using System;
 
-public class Human
+public class Human : Game
+		//Child class to Game
 {
 	public Human()
 	{
